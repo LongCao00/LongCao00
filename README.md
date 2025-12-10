@@ -12,7 +12,7 @@ Always curious, always learning—and always happy to connect!
 
 💬 If you have any queries, contact me at:
 
-☑ Phone: (437) 971 -5421
+☑ Phone: (437) 971 -5421 <br>
 ☑ Email: longcao2000@gmail.com
 <!--
 **LongCao00/LongCao00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
